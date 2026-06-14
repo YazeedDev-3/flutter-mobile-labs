@@ -1,0 +1,21 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.pub-cache/
+.pub/
+*.iml
+
+# ASP.NET Core
+bin/
+obj/
+.vs/
+*.user
+appsettings.Development.json
+
+# General
+.DS_Store
+Thumbs.db
+.idea/
+*.suo
